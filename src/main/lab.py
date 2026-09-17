@@ -66,4 +66,4 @@ class BankAccount:
         Returns:
         - str: The account number of the account.
         """
-        return 0
+        return self._account_number
